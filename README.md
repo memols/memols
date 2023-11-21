@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @memols
+- 👋 Yo, I’m memo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# 
-al
+- 👨‍💻 Java, C#, Html, Css, Javascript, Single Page Applications(Angular, Vue.js), MySQL, & Git knowledge  
+- 🙃 My Hobbies are playing Football, Video Games 🔫, Training and stacking 💵
 
 <!---
 memols/memols is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
